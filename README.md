@@ -24,8 +24,9 @@
 ## 🛠️ Technical Skillset
 
 ### ⚒️ Development & Tools  
+### ⚒️ Development & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman,notion,aws" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,vscode,pycharm,idea,notion,postman,aws" />
 </p>
 
 ### ⚒️ Languages & Frameworks  
