@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shivangisingh04/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:shivangisingh8688@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/shivangisingh8688/"><img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <img src="https://komarev.com/ghpvc/?username=shivangi792004&label=Profile%20Views&color=00c9a7&style=for-the-badge" alt="Profile Views"/>
 </p>
 
@@ -217,6 +217,17 @@ I'm a **Software Developer** and **B.Tech CSE graduate** from Lovely Professiona
     <td>2024</td>
   </tr>
 </table>
+
+<br/>
+
+<!-- ===================== LEETCODE ===================== -->
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/shivangisingh8688/">
+    <img src="https://leetcard.jacoblin.cool/shivangisingh8688?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
 
 <br/>
 
