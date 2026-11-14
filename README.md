@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shivangisingh04/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:shivangisingh8688@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   <img src="https://komarev.com/ghpvc/?username=shivangi792004&label=Profile%20Views&color=00c9a7&style=for-the-badge" alt="Profile Views"/>
 </p>
 
@@ -84,7 +84,7 @@ const shivangi = {
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
       <br/><br/>
-      <a href="https://github.com/shivangi792004/HOSPCARE_REPO_NAME"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
+      <a href="https://github.com/shivangi792004?tab=repositories"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>✍️ MERN Blog</h3>
@@ -101,8 +101,8 @@ const shivangi = {
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
       <img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind"/>
       <br/><br/>
-      <a href="https://github.com/shivangi792004/BLOG_REPO_NAME"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
-      <a href="LIVE_LINK"><img src="https://img.shields.io/badge/Live_Demo-00C9A7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/></a>
+      <a href="https://github.com/shivangi792004/mern-blog"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
+      <a href="https://mern-blog-jn6u.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-00C9A7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/></a>
     </td>
   </tr>
   <tr>
@@ -114,16 +114,18 @@ const shivangi = {
       <img src="https://img.shields.io/badge/OOP-6A1B9A?style=flat-square" alt="OOP"/>
       <img src="https://img.shields.io/badge/STL-00599C?style=flat-square" alt="STL"/>
       <br/><br/>
-      <a href="https://github.com/shivangi792004/LIBRARY_REPO_NAME"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
+      <a href="https://github.com/shivangi792004?tab=repositories"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 DSA Practice</h3>
-      <p><b>300+ Problems Solved</b> · C++</p>
-      <p>Solutions across arrays, trees, graphs and dynamic programming, with 200+ active days on LeetCode.</p>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-      <img src="https://img.shields.io/badge/Algorithms-FFA116?style=flat-square" alt="Algorithms"/>
+      <h3>🤖 QuickAI</h3>
+      <p><b>AI SaaS Platform</b> · Full-Stack MERN</p>
+      <p>SaaS platform for generating, managing and sharing AI-powered content, built on a secure, modern MERN architecture.</p>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
       <br/><br/>
-      <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/></a>
+      <a href="https://github.com/shivangi792004/QuickAI-Full-Stack"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
     </td>
   </tr>
 </table>
