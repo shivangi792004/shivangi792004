@@ -1,108 +1,235 @@
-<!-- Header Banner -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d64,100:00c9a7&height=220&section=header&text=Shivangi%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%7C%20MERN%20Stack%20%7C%20DSA%20in%20C%2B%2B&descSize=20&descAlignY=58" alt="Shivangi Singh - Software Developer" width="100%" />
-</p>
-
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Frontend+Developer+Intern+%40+Triwize;Full-Stack+MERN+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;300%2B+LeetCode+Problems+Solved;Open+to+SDE+%26+Full-Stack+Roles" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d64,100:00c9a7&height=230&section=header&text=Shivangi%20Singh&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Problem%20Solver&descSize=20&descAlignY=58" alt="Shivangi Singh" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivangisingh04/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:shivangisingh8688@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <img src="https://komarev.com/ghpvc/?username=shivangi792004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Frontend+Developer+Intern+%40+Triwize+Journey;Building+scalable+web+apps+with+the+MERN+stack;300%2B+LeetCode+problems+solved+in+C%2B%2B;Open+to+SDE+%7C+Frontend+%7C+Full-Stack+roles" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivangisingh04/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shivangisingh8688@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://komarev.com/ghpvc/?username=shivangi792004&label=Profile%20Views&color=00c9a7&style=for-the-badge" alt="Profile Views"/>
+</p>
 
+<br/>
+
+<!-- ===================== ABOUT ===================== -->
 ## 👩‍💻 About Me
 
-- 💼 **Frontend Developer Intern** at **Triwize Journey**, a travel-tech startup, building a trip-planning platform with **React.js** and **Tailwind CSS**
-- 🎓 **B.Tech in Computer Science & Engineering**, Lovely Professional University (2022 – 2026)
-- 🛠️ Build full-stack **MERN** applications with REST APIs, JWT authentication and cloud deployment
-- 🧠 **300+ LeetCode problems** solved across arrays, trees, graphs and DP; **5-star** on HackerRank in C++, Python and SQL
-- 🎯 Open to **SDE, Frontend and Full-Stack Developer** roles
+```javascript
+const shivangi = {
+  role:        "Frontend Developer Intern @ Triwize Journey",
+  education:   "B.Tech CSE, Lovely Professional University (2022 – 2026)",
+  location:    "India 🇮🇳",
+  coreStack:   ["React.js", "Node.js", "Express.js", "MongoDB"],
+  languages:   ["JavaScript", "C++", "Python", "SQL"],
+  problemSolving: "300+ LeetCode | 5★ HackerRank (C++, Python, SQL)",
+  lookingFor:  ["SDE", "Frontend Developer", "Full-Stack Developer"],
+  motto:       "Consistency over perfection.",
+};
+```
 
----
+- 🔭 Currently building a **trip-planning platform** at a travel-tech startup with **React.js** and **Tailwind CSS**
+- 🌱 Sharpening **system design fundamentals** and **advanced DSA**
+- 🤝 Open to collaborating on **full-stack and open-source** projects
+- 📫 Reach me at **shivangisingh8688@gmail.com**
 
+<br/>
+
+<!-- ===================== EXPERIENCE ===================== -->
 ## 💼 Experience
 
-### Frontend Developer Intern · Triwize Journey Pvt. Ltd.
-*Sep 2026 – Present · Remote (Gurugram)*
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🧳 Frontend Developer Intern · Triwize Journey Pvt. Ltd.</h3>
+      <p><i>Sep 2026 – Present · Remote (Gurugram) · Travel-tech startup</i></p>
+      <ul>
+        <li>Building responsive UI for a trip-planning platform using <b>React.js</b> and <b>Tailwind CSS</b></li>
+        <li>Converting <b>Figma</b> designs into reusable components for itinerary and destination pages</li>
+        <li>Integrating <b>REST APIs</b> to display live travel data and testing them with <b>Postman</b></li>
+        <li>Collaborating with backend and design teams through <b>Git/GitHub</b> in a remote setup</li>
+      </ul>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind"/>
+      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+    </td>
+  </tr>
+</table>
 
-- Building responsive UI for a trip-planning platform using **React.js** and **Tailwind CSS**
-- Converting **Figma** designs into reusable components for itinerary and destination pages
-- Integrating **REST APIs** to display live travel data and testing them with **Postman**
-- Collaborating with backend and design teams through **Git/GitHub** in a remote setup
+<br/>
 
----
-
+<!-- ===================== PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|---|---|---|---|
-| 🏥 **HospCare** | Healthcare management system for appointment booking, scheduling and medical records. JWT auth, bcrypt hashing, role-based access for patients and doctors, 12+ REST APIs, 4 indexed MongoDB collections. | MongoDB · Express · React · Node · JWT | [Code](https://github.com/shivangi792004/HOSPCARE_REPO_NAME) |
-| ✍️ **MERN Blog** | Full-stack blogging platform to create, edit, delete, browse and search posts, with protected routes and JWT auth. Deployed on Render with MongoDB Atlas. | MongoDB · Express · React · Node · Tailwind | [Code](https://github.com/shivangi792004/BLOG_REPO_NAME) · [Live](LIVE_LINK) |
-| 📚 **Library Management System** | C++ application managing 200+ book records using hash maps, file I/O and OOP. | C++ · OOP · STL | [Code](https://github.com/shivangi792004/LIBRARY_REPO_NAME) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 HospCare</h3>
+      <p><b>Healthcare Management System</b> · Team Capstone</p>
+      <p>Full-stack platform connecting patients and doctors for appointment booking, scheduling and medical-record management.</p>
+      <ul>
+        <li>JWT auth, bcrypt hashing and role-based access</li>
+        <li>12+ REST API endpoints</li>
+        <li>4 indexed MongoDB collections for fast lookups</li>
+      </ul>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+      <br/><br/>
+      <a href="https://github.com/shivangi792004?tab=repositories"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✍️ MERN Blog</h3>
+      <p><b>Full-Stack Blogging Platform</b> · Deployed</p>
+      <p>Blogging platform where users can create, edit, delete, browse and search posts.</p>
+      <ul>
+        <li>Express.js REST APIs with JWT authentication</li>
+        <li>Protected routes with React Router</li>
+        <li>Deployed on Render with MongoDB Atlas</li>
+      </ul>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind"/>
+      <br/><br/>
+      <a href="https://github.com/shivangi792004/mern-blog"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
+      <a href="https://mern-blog-jn6u.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-00C9A7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Library Management System</h3>
+      <p><b>C++ Application</b> · Board Infinity Training</p>
+      <p>Console application managing 200+ book records using hash maps, file I/O and object-oriented design.</p>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/OOP-6A1B9A?style=flat-square" alt="OOP"/>
+      <img src="https://img.shields.io/badge/STL-00599C?style=flat-square" alt="STL"/>
+      <br/><br/>
+      <a href="https://github.com/shivangi792004?tab=repositories"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 QuickAI</h3>
+      <p><b>AI SaaS Platform</b> · Full-Stack MERN</p>
+      <p>SaaS platform for generating, managing and sharing AI-powered content, built on a secure, modern MERN architecture.</p>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <br/><br/>
+      <a href="https://github.com/shivangi792004/QuickAI-Full-Stack"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
+<!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,cpp,python,mysql" alt="Languages" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,cpp,python,react,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,docker,linux,postman,figma,vscode&perline=9" alt="Tech Stack" />
 </p>
 
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" />
-</p>
+<table align="center">
+  <tr>
+    <td><b>Languages</b></td>
+    <td>JavaScript · C++ · Python · SQL</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React.js · HTML · CSS · Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Node.js · Express.js · REST APIs · JWT Authentication</td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>MongoDB · MySQL</td>
+  </tr>
+  <tr>
+    <td><b>Tools & DevOps</b></td>
+    <td>Git · GitHub · Docker · Linux · Postman · Figma · Render</td>
+  </tr>
+  <tr>
+    <td><b>Core CS</b></td>
+    <td>Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks</td>
+  </tr>
+</table>
 
-**Backend & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and Databases" />
-</p>
+<br/>
 
-**Tools & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma,vscode" alt="Tools" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" height="48" />
-</p>
+<!-- ===================== ACHIEVEMENTS ===================== -->
+## 🏆 Achievements & Certifications
 
-**Core CS:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
+<table align="center">
+  <tr>
+    <th>Achievement</th>
+    <th>Platform</th>
+    <th>Year</th>
+  </tr>
+  <tr>
+    <td>🟢 300+ problems solved, 200+ active days</td>
+    <td>LeetCode</td>
+    <td>2026</td>
+  </tr>
+  <tr>
+    <td>⭐ 5-star in C++, Python and SQL</td>
+    <td>HackerRank</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>📜 Advanced SQL Certificate</td>
+    <td>HackerRank</td>
+    <td>2025</td>
+  </tr>
+  <tr>
+    <td>📜 Data Structures & Algorithms in C++ (60+ hours)</td>
+    <td>Board Infinity</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>📜 Programming in C++: A Hands-on Introduction</td>
+    <td>Coursera</td>
+    <td>2024</td>
+  </tr>
+</table>
 
----
+<br/>
 
-## 📈 GitHub Stats
+<!-- ===================== GITHUB ACTIVITY ===================== -->
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shivangi792004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=shivangi792004&theme=tokyonight&hide_border=true&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/00c9a7/shivangi792004" width="100%" alt="Contribution Chart" />
 </p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivangi792004/shivangi792004/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivangi792004/shivangi792004/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/shivangi792004/shivangi792004/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
 
-## 🏆 Achievements & Certifications
-
-- 🟢 **LeetCode:** 300+ problems solved with 200+ active days
-- ⭐ **HackerRank:** 5-star in C++, Python and SQL
-- 📜 **Advanced SQL** – HackerRank (Feb 2025)
-- 📜 **Data Structures & Algorithms in C++** – Board Infinity (Jul 2024), 60+ hours of training, 100+ problems solved
-- 📜 **Programming in C++: A Hands-on Introduction** – Coursera (Feb 2024)
-
----
-
+<!-- ===================== FOOTER ===================== -->
 <p align="center">
   <b>💡 Consistency over perfection. Learn, build, improve.</b>
 </p>
 
-<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:0e4d64,100:0d1117&height=120&section=footer" alt="Footer" width="100%" />
 </p>
