@@ -19,22 +19,36 @@
 <!-- ===================== ABOUT ===================== -->
 ## 👩‍💻 About Me
 
-```javascript
-const shivangi = {
-  role:        "Frontend Developer Intern @ Triwize Journey",
-  education:   "B.Tech CSE, Lovely Professional University (2022 – 2026)",
-  location:    "India 🇮🇳",
-  coreStack:   ["React.js", "Node.js", "Express.js", "MongoDB"],
-  languages:   ["JavaScript", "C++", "Python", "SQL"],
-  problemSolving: "300+ LeetCode | 5★ HackerRank (C++, Python, SQL)",
-  lookingFor:  ["SDE", "Frontend Developer", "Full-Stack Developer"],
-  motto:       "Consistency over perfection.",
-};
-```
+I'm a **Software Developer** and **B.Tech CSE graduate** from Lovely Professional University, currently working as a **Frontend Developer Intern at Triwize Journey**, a travel-tech startup. I enjoy turning designs into fast, responsive interfaces and building full-stack applications with the **MERN stack**, backed by strong **DSA fundamentals in C++**.
 
-- 🔭 Currently building a **trip-planning platform** at a travel-tech startup with **React.js** and **Tailwind CSS**
-- 🌱 Sharpening **system design fundamentals** and **advanced DSA**
-- 🤝 Open to collaborating on **full-stack and open-source** projects
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>💼</h3>
+      <b>Frontend Intern</b><br/>
+      <sub>Triwize Journey</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🚀</h3>
+      <b>3+ MERN Apps</b><br/>
+      <sub>Built & deployed</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🧠</h3>
+      <b>300+ Problems</b><br/>
+      <sub>Solved on LeetCode</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>⭐</h3>
+      <b>5-Star</b><br/>
+      <sub>HackerRank C++, Python, SQL</sub>
+    </td>
+  </tr>
+</table>
+
+- 🔭 Currently building a **trip-planning platform** with **React.js** and **Tailwind CSS**
+- 🌱 Learning **system design** and **advanced DSA**
+- 🎯 Open to **SDE, Frontend and Full-Stack Developer** roles
 - 📫 Reach me at **shivangisingh8688@gmail.com**
 
 <br/>
