@@ -79,16 +79,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivangi792004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=shivangi792004&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=shivangi792004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangi792004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivangi792004&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/00c9a7/shivangi792004" width="100%" alt="Contribution Chart" />
 </p>
 
 ---
